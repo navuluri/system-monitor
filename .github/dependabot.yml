@@ -30,9 +30,9 @@ updates:
     commit-message:
       prefix: "chore(deps)"
     reviewers:
-      - "yourusername"
+      - "navuluri"
     assignees:
-      - "yourusername"
+      - "navuluri"
 
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
