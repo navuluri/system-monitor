@@ -428,7 +428,7 @@ export async function fetchSystemMetrics(
 
 ## 🤔 Questions?
 
-- 💬 Open a [Discussion](https://github.com/yourusername/system-monitor/discussions)
+- 💬 Open a [Discussion](https://github.com/navuluri/system-monitor/discussions)
 - 📧 Email: dev@example.com
 - 💻 Join our Discord: [Link]
 
