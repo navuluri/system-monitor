@@ -24,6 +24,7 @@
 .DS_Store
 *.pem
 SUMMARY.md
+ANALYSIS.md
 
 # debug
 npm-debug.log*
